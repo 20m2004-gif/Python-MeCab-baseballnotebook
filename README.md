@@ -9,11 +9,11 @@
 
 ## 使用技術
 - Python/Jupyter Notebook  
-- MeCab・fugashi（形態要素解析）
-- TF-IDF（特徴量抽出）
-- matplotlib/seaborn（可視化）
-- K-means/PCA（クラスタリング）
-- 感情分析（独自ルール + 自然言語処理）
+- MeCab・fugashi：形態要素解析
+- TF-IDF：特徴量抽出
+- matplotlib/seaborn：可視化
+- K-means/PCA：クラスタリング
+- 感情分析：独自ルール + 自然言語処理
 
 ## プロジェクト概要
 1. 与えられた選手の性格をもとに野球ノートを生成  
